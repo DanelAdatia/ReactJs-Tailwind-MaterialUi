@@ -1,0 +1,86 @@
+{
+  "answers": [
+    {
+      "question": "What were yesterday's sales?",
+      "answer": [
+        {
+          "category": "Monday",
+          "sales": 100
+        },
+        {
+          "category": "Tuesday",
+          "sales": 200
+        },
+        {
+          "category": "Wednesday",
+          "sales": 150
+        },
+        {
+          "category": "Thursday",
+          "sales": 300
+        },
+        {
+          "category": "Friday",
+          "sales": 250
+        },
+        {
+          "category": "Saturday",
+          "sales": 175
+        },
+        {
+          "category": "Sunday",
+          "sales": 80
+        }
+      ]
+    },
+    {
+      "question": "What is the average sale price?",
+      "answer": "The average sale price is $50."
+    },
+    {
+      "question": "What is the most popular product?",
+      "answer": "The most popular product is the XYZ widget."
+    }
+  ],
+  "threaded": [
+    {
+      "question": "What were yesterday's sales?",
+      "answer": [
+        {
+          "category": "Monday",
+          "sales": 100
+        },
+        {
+          "category": "Tuesday",
+          "sales": 200
+        },
+        {
+          "category": "Wednesday",
+          "sales": 150
+        },
+        {
+          "category": "Thursday",
+          "sales": 300
+        },
+        {
+          "category": "Friday",
+          "sales": 250
+        },
+        {
+          "category": "Saturday",
+          "sales": 175
+        },
+        {
+          "category": "Sunday",
+          "sales": 80
+        }
+      ],
+      "id": 0.20343971717766696
+    },
+    {
+      "question": "What is the most popular product?",
+      "answer": "The most popular product is the XYZ widget.",
+      "id": 0.5878301107655426
+    }
+  ]
+}
